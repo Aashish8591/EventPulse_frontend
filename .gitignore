@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# production
+dist/
+
+# environment variables
+.env
+
+# logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
