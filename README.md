@@ -29,5 +29,3 @@ npm run dev
 ## 👨‍💻 Author
 
 Aashish Patil
-
-> > > > > > > da8d6f20438a64ab5f1b742214818aca58ec12d1
